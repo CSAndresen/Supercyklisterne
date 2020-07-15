@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperCyklisterneAPI", "SuperCyklisterneAPI\SuperCyklisterneAPI.csproj", "{8D0FE202-814F-4B5F-BE12-AF277629DC4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BA0DD43-EA48-47CE-84CF-46DF1736FD37}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0FE202-814F-4B5F-BE12-AF277629DC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0FE202-814F-4B5F-BE12-AF277629DC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0FE202-814F-4B5F-BE12-AF277629DC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0FE202-814F-4B5F-BE12-AF277629DC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A35AF8-576F-461D-8D81-57138344CF3E}
+	EndGlobalSection
+EndGlobal
