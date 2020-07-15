@@ -1,7 +1,0 @@
-﻿[*.cs]
-
-# AD0001: Analyzer Failure
-dotnet_diagnostic.AD0001.severity = none
-
-# IDE0052: Remove unread private members
-dotnet_diagnostic.IDE0052.severity = none
